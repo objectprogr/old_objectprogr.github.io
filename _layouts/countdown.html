@@ -10,11 +10,11 @@ layout: default
     {{ content }}
 
     <span id="clock"></span>
-<script type="text/javascript">
-require('jquery-countdown');
-  $('#clock').countdown('2020/10/10', function(event) {
-  $(this).html(event.strftime('%D days %H:%M:%S'));
-});
-</script>
-  </div>
+</div>
 </article>
+<script type="text/javascript">
+    require('jquery-countdown');
+      $('#clock').countdown('2020/10/10', function(event) {
+      $(this).html(event.strftime('%D days %H:%M:%S'));
+    });
+    </script>

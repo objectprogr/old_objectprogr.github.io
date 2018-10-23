@@ -1,5 +1,5 @@
 ---
-layout: countdown
+layout: page
 title: Challenge
 permalink: /challenge/
 ---

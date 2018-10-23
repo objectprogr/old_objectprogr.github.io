@@ -40,6 +40,8 @@ urls:
       url: /feed.xml
     - text: Plan
       url: /plan/
+    - text: Challenge
+      url: /challenge/
 
 url: "https://objectprogr.github.io"
 baseurl: ""

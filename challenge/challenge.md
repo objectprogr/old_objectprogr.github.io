@@ -15,9 +15,9 @@ HTML + CSS
 JavaScript
 
 #### My learn plan:
-- [***1-5 day,***](https://objectprogr.github.io//learn/30dayschallenge/1-5day.html "***1-5 day,***")
-- [***6-10 day,***](https://objectprogr.github.io//learn/30dayschallenge/6-10day.html "***6-10 day,***")
-- [***11-15 day,***](https://objectprogr.github.io//learn/30dayschallenge/11-15day.html "***11-15 day,***")
+- [***1-5 day,***](https://objectprogr.github.io/challenge/1-5day/ "***1-5 day,***")
+- [***6-10 day,***](https://objectprogr.github.io/challenge/6-10day/ "***6-10 day,***")
+- [***11-15 day,***](https://objectprogr.github.io/challenge/11-15day/ "***11-15 day,***")
 - ***16-20 day,***
 - ***21-25 day,***
 - ***26-30 day,***.

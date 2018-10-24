@@ -7,7 +7,8 @@ permalink: /challenge/
 
 I starting with my 30 days challenge beacuse I want improve my coding knowledge and skills. I will be coding, reading and writing simple notes 30 days where I will be adding what I actually do, for every day.
 For the 30 days, I want to too writing simple application, which getting and display all articles from my website.
-[***ALL WRITNG POSTS***](https://objectprogr.github.io/category/30dayschallenge/ "roadmap")
+
+[***ALL WRITNG POSTS***](https://objectprogr.github.io/category/30dayschallenge "roadmap")
 
 #### Language:
 HTML + CSS

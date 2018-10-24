@@ -23,8 +23,8 @@ JavaScript
 - ***26-30 day,***.
 
 #### Goal:
-- improve knowledge;
-- improve my english;
+- improve knowledge,
+- improve my english,
 - writing simple app.
 
 #### Links:

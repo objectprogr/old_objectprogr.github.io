@@ -2,10 +2,9 @@
 layout: post
 title:  "1-5 day plan"
 date:   2018-10-24 10:00:00
-permalink: /challenge/1-5day/
 categories: [learn, 30dayschallenge]
+permalink: /challenge/1-5day/
 ---
-# 1-5 day plan
 
 #### Day 1:
 Learn the basics of CSS and DOM structure

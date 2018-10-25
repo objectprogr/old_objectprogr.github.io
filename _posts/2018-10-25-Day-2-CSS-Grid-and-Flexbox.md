@@ -6,6 +6,10 @@ categories: [learn, 30dayschallenge]
 ---
 #### Grid
 Grid is for multi-dimensional layouts (columns and rows).
+*See example code on my github*
+
+![Github](/assets/github.png) [Github](https://github.com/objectprogr/30dayschallenge)
+
 Below basics syntax:
 
 ```

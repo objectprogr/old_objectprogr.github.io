@@ -32,4 +32,4 @@ JavaScript
 - [github](https://github.com/objectprogr/30dayschallenge_app "github")
 - [#30dayschallenge](https://objectprogr.github.io/category/jekyll "#30dayschallenge")
 
-# My challenge countdown:
+:alarm_clock: # My challenge countdown: 

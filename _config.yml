@@ -38,6 +38,8 @@ urls:
       url: /challenge/
     - text: My Projects
       url: /projects/
+    - text: English dictionary
+      url: /english/
     - text: Plan
       url: /plan/
     - text: XML Feed

@@ -9,6 +9,10 @@ categories: [learn, 30dayschallenge]
 
 With the help of media queries we can define diffrent style adapted to diffrent devices ( ex. computer, tablet, phone, smartwatch) using values ex. width, height.
 
+*See example code on my github*
+
+![Github](/assets/github.png) [Github](https://github.com/objectprogr/30dayschallenge/tree/day3MediaQueries)
+
 [Interactive example ( resize your browser and look how change background and layout)](https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_ex1 "Interactive example ( resize your browser and look how change background and layput)")
 
 [MDN web docs](https://developer.mozilla.org/pl/docs/Web/CSS/Media_Queries/Using_media_queries "MDN web docs")

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day 4 - JavaScript - DOM manipulation"
-date:   2018-10-26 11:00:00
+title:  "Day 5 - JavaScript - DOM manipulate"
+date:   2018-10-28 11:00:00
 categories: [learn, 30dayschallenge]
 ---
 

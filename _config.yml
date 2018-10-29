@@ -20,10 +20,10 @@ social:
       link: "#"
     - icon: fa-twitter
       link: "#"
-    - icon: fa-linkedin
-      link: "#"
     - icon: fa-stack-exchange
       link: "#"
+    - icon: fa-codepen
+      link: "https://codepen.io/objectprogr/#"
     - icon: fa-github
       link: "https://github.com/objectprogr"
 

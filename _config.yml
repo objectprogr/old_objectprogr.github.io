@@ -40,8 +40,8 @@ urls:
       url: /projects/
     - text: English dictionary
       url: /english/
-    - text: Plan
-      url: /plan/
+    - text: Category
+      url: /category/
     - text: XML Feed
       url: /feed.xml
 

@@ -41,7 +41,7 @@ urls:
     - text: English dictionary
       url: /english/
     - text: Category
-      url: /category/
+      url: /category/30dayschallenge
     - text: XML Feed
       url: /feed.xml
 

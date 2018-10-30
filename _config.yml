@@ -32,7 +32,7 @@ share:
   fb_appid: 
 
 urls:
-   - text: How I learn
+    - text: How I learn
       url: /learn/
     - text: Challenge
       url: /challenge/

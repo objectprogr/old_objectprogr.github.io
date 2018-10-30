@@ -13,3 +13,7 @@ permalink: /learn/
 5. I looking for simple troubles on [stackoverflow](https://stackoverflow.com/questions/tagged/javascript), and trying to solve them,
 6. I looking for examples of code realted to my actually task from my [#30dayschallenge](https://objectprogr.github.io/challenge/) and I reading him and trying understand,
 7. And I form a whole time I reading tutorials/articles/documenations or I write simple code related to my actually task from my [#30dayschallenge](https://objectprogr.github.io/challenge/).
+
+### Favourite links
+
+[Very good article about this how to learn](https://medium.com/@samanthaming/3-tips-to-improve-your-programming-skills-294e6af90b53)

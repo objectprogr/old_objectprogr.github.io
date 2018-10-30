@@ -32,8 +32,8 @@ share:
   fb_appid: 
 
 urls:
-    - text: About Me
-      url: /about/
+   - text: How I learn
+      url: /how-i-learn/
     - text: Challenge
       url: /challenge/
     - text: My Projects
@@ -42,6 +42,8 @@ urls:
       url: /english/
     - text: Category
       url: /category/30dayschallenge
+    - text: About Me
+      url: /about/
     - text: XML Feed
       url: /feed.xml
 

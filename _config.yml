@@ -33,7 +33,7 @@ share:
 
 urls:
    - text: How I learn
-      url: /how-i-learn/
+      url: /learn/
     - text: Challenge
       url: /challenge/
     - text: My Projects

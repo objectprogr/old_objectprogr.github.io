@@ -21,4 +21,8 @@ permalink: /english/
 - **even if you don't pick Angular** - *nawet jeśli nie wybierzesz Angulara,*
 - **everything that one might need** - *wszystko co może być potrzebne,*
 - **to different purposes** - *do różnych celów,*
+- **Here is my advice** - *oto moja rada,*
+- **I helped students with their assignments** - *pomagałem uczniom w ich zadanich,*
+
+
 

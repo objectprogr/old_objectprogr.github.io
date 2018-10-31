@@ -51,3 +51,14 @@ Event Bubbling is the event starts from the deepest element or target element to
 
 ## Prototype
 
+The prototype is a reference to another object and it is used whenever JS can’t find the property you’re looking for on the current object. Prototype inheritance provide posibility interact with any elements as an object. 
+JavaScript objects have a link to a prototype object. When trying to access a property of an object, the property will not only be sought on the object but on the prototype of the object, the prototype of the prototype, and so on until either a property with a matching name is found or the end of the prototype chain is reached.
+
+![Prototype diagram](/assets/prototype_diagram.png)
+
+*More informations*
+[hackernoon.com](https://hackernoon.com/inheritance-in-javascript-21d2b82ffa6f)
+[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+[medium.com - 1](https://medium.com/@kevincennis/prototypal-inheritance-781bccc97edb)
+[medium.com - 2](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+[stackoverflow](https://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical)

@@ -23,6 +23,7 @@ permalink: /english/
 - **to different purposes** - *do różnych celów,*
 - **Here is my advice** - *oto moja rada,*
 - **I helped students with their assignments** - *pomagałem uczniom w ich zadanich,*
+- **although** - *mimo że / chociaż / aczkolwiek,*
 
 
 

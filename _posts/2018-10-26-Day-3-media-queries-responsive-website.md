@@ -17,7 +17,7 @@ With the help of media queries we can define diffrent style adapted to diffrent 
 
 [MDN web docs](https://developer.mozilla.org/pl/docs/Web/CSS/Media_Queries/Using_media_queries "MDN web docs")
 
-```
+```css
 body {
     background-color: tan;
     color: black;

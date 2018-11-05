@@ -12,7 +12,7 @@ Grid is for multi-dimensional layouts (columns and rows).
 
 Below basics syntax:
 
-```
+```css
 grid-column-start: 1 ;
 grid-column-end 2;
 grid-template-columns; 20% 20% 20%;
@@ -24,6 +24,8 @@ grid-template-rows: repeat(4, 20%);
 
 ```
 
+### *[Excellent tutorial about grid](https://medium.freecodecamp.org/learn-css-grid-in-5-minutes-f582e87b1228)*
+
 [Learn grid basics with funny editor.](http://cssgridgarden.com/#pl "Learn grid basics with funny editor.")
 
 [ Basic concepts of grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout " Basic concepts of grid layout")
@@ -32,7 +34,7 @@ grid-template-rows: repeat(4, 20%);
 Flexbox should be used for one-dimensional layouts - line layouts.
 Below basics syntax:
 
-```
+```css
 justify-content: center;
 flex-start: //Elements justify to left side of container.
 flex-end: //Elements justify to right side of container.
